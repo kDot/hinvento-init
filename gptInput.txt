@@ -1,0 +1,1 @@
+Create content for a Readme.md (so markdown format please) of attatched git repositry. Do not consider files gptInput.txt, LICENCE and .gitignore.
